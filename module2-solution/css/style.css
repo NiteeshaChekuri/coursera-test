@@ -14,8 +14,8 @@ h1{
 }
 
 .container{
-	background-color:  lightpink;
-	border:  1px solid green;
+	background-color:  lightgray;
+	border:  2px solid green;
 	margin-top: 50px;
 	margin-left: 20px;
 	margin-right:  20px;
@@ -29,12 +29,24 @@ h1{
 h4{
 	margin:  0;
   font-size: 20px;
-	background-color: lightskyblue;
-	border:  1px solid black;
+	border:  2px solid green;
 	float: right;
 	text-align:  center;
 	padding: 5px;
 	width:  100px;
+}
+
+.sec1{
+background-color:  lightblue;
+color:  maroon;
+}
+.sec2{
+background-color:  lightsalmon;
+color:  purple;
+}
+.sec3{
+background-color:  lemonchiffon;
+color:  brown;
 }
 
 p{
