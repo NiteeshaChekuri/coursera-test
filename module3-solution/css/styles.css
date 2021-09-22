@@ -67,13 +67,15 @@ h3{
   color: brown;
 }
 
+.row{
+  margin-left: -10px;
+  margin-right: 20px;
+}
+
 .menu-item-description{
   border:  2px solid red;
   background-color: lightgrey;
-  margin-left: 20px;
-  margin-right: 20px;
-  margin-bottom: 20px;
-  margin-top:  10px;
+  margin: 20px 20px 20px 20px;
 }
 
 .menu-item-details{
